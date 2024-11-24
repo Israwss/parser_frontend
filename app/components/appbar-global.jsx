@@ -1,5 +1,4 @@
 import { AppBar, Box, Button, Link, Toolbar, Typography } from "@mui/material";
-import AutoStoriesIcon from "@mui/icons-material/AutoStories";
 import Image from "next/image";
 
 const navitems = [
